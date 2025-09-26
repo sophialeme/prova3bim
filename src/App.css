@@ -51,3 +51,19 @@ html, body, #root {
 .card a:hover {
   text-decoration: underline;
 }
+
+.botao {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #22c55e; 
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.botao:hover {
+  background-color: #16a34a;
+}
